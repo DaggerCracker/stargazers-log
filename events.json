@@ -1,0 +1,20 @@
+[
+  {
+    "name": "octocat/hello-world",
+    "description": "A first repository for trying out GitHub.",
+    "url": "https://github.com/octocat/Hello-World",
+    "starredAt": "2025-03-12"
+  },
+  {
+    "name": "github/docs",
+    "description": "Documentation for GitHub products and features.",
+    "url": "https://github.com/github/docs",
+    "starredAt": "2025-02-08"
+  },
+  {
+    "name": "microsoft/vscode",
+    "description": "Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.",
+    "url": "https://github.com/microsoft/vscode",
+    "starredAt": "2025-01-21"
+  }
+]
